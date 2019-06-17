@@ -1,7 +1,7 @@
 # chiroptical
 Stream progress, ideas, projects, topics
 
-## Books
+## Books (owned)
 
 - [x] [Learn you a Haskell for Great Good](http://learnyouahaskell.com/)
 - [x] [Haskell Programming from First Principles](http://haskellbook.com/)
@@ -10,7 +10,11 @@ Stream progress, ideas, projects, topics
 - [ ] [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
 - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
 - [ ] [Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
+
+## Books (potential)
+
 - [ ] [Intermediate Haskell](https://intermediatehaskell.com/)
+- [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
 
 ## Topics
 
