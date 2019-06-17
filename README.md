@@ -28,3 +28,5 @@ Stream progress, ideas, projects, topics
 - [ ] Free/Freer Monads
 - [ ] Tagless Final
 - [ ] Algorithms
+- [ ] Web API (Scotty/Servant)
+- [ ] Databases (Probably HDBC)
