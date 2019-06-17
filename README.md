@@ -16,6 +16,10 @@ Stream progress, ideas, projects, topics
 - [ ] [Intermediate Haskell](https://intermediatehaskell.com/)
 - [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
 
+## Courses
+
+- [ ] [Data 61 FP Course](https://github.com/data61/fp-course)
+
 ## Topics
 
 - [ ] Lenses
