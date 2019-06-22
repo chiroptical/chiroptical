@@ -9,8 +9,8 @@ Stream progress, ideas, projects, topics
 - [ ] [Real World Haskell](http://book.realworldhaskell.org/)
 - [ ] [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
 - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
-- [ ] [Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
 - [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
+- [ ] [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) (book is not finished yet)
 
 ## Books (potential)
 
