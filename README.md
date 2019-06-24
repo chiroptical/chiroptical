@@ -19,6 +19,7 @@ Stream progress, ideas, projects, topics
 ## Courses
 
 - [ ] [Data 61 FP Course](https://github.com/data61/fp-course)
+- [ ] [Data61 Applied FP Course](https://github.com/qfpl/applied-fp-course)
 
 ## Topics
 
