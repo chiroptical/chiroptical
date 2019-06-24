@@ -22,7 +22,7 @@ Stream progress, ideas, projects, topics
 
 ## Topics
 
-- [ ] Lenses
+- [ ] [https://github.com/data61/lets-lens](Data61 Lens Tutorial)
 - [ ] `DerivingVia`
 - [ ] Nix
 - [ ] Free/Freer Monads
