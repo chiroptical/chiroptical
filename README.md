@@ -31,3 +31,4 @@ Stream progress, ideas, projects, topics
 - [ ] Algorithms
 - [ ] Web API (Scotty/Servant)
 - [ ] Databases (Probably HDBC)
+- [ ] Recursion Schemes
