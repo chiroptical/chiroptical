@@ -32,3 +32,4 @@ Stream progress, ideas, projects, topics
 - [ ] Web API (Scotty/Servant)
 - [ ] Databases (Probably HDBC)
 - [ ] Recursion Schemes
+  - Hylomorphism: http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Hylomorphisms.pdf
