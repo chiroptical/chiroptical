@@ -33,3 +33,7 @@ Stream progress, ideas, projects, topics
 - [ ] Databases (Probably HDBC)
 - [ ] Recursion Schemes
   - Hylomorphism: http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Hylomorphisms.pdf
+
+## Category Theory
+
+- https://www.youtube.com/user/MathProofsable
