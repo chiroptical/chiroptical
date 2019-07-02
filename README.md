@@ -25,7 +25,7 @@ Stream progress, ideas, projects, topics
 
 - [ ] [Data61 Lens Tutorial](https://github.com/data61/lets-lens)
 - [ ] `DerivingVia`
-- [ ] Nix
+- [ ] [Nix Tutorial](https://nixos.org/nixos/nix-pills/why-you-should-give-it-a-try.html)
 - [ ] Free/Freer Monads
 - [ ] Tagless Final
 - [ ] Algorithms
