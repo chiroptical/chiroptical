@@ -29,7 +29,10 @@ Stream progress, ideas, projects, topics
 - [ ] Free/Freer Monads
 - [ ] Tagless Final
 - [ ] Algorithms
-- [ ] Web API (Scotty/Servant)
+- [ ] Web APIs
+  - [ ] Scotty
+  - [ ] Servant
+- [ ] [Cloud Haskell](http://haskell-distributed.github.io/)
 - [ ] Databases (Probably HDBC)
 - [ ] Recursion Schemes
   - Hylomorphism: http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Hylomorphisms.pdf
