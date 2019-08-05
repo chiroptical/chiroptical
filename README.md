@@ -5,6 +5,7 @@ Stream progress, ideas, projects, topics
 
 - [x] [Learn you a Haskell for Great Good](http://learnyouahaskell.com/)
 - [x] [Haskell Programming from First Principles](http://haskellbook.com/)
+- [ ] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT)
 - [ ] [Thinking with Types](https://leanpub.com/thinking-with-types/)
 - [ ] [Real World Haskell](http://book.realworldhaskell.org/)
 - [ ] [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
