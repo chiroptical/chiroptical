@@ -5,8 +5,8 @@ Stream progress, ideas, projects, topics
 
 - [x] [Learn you a Haskell for Great Good](http://learnyouahaskell.com/)
 - [x] [Haskell Programming from First Principles](http://haskellbook.com/)
-- [ ] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT)
-- [ ] [Thinking with Types](https://leanpub.com/thinking-with-types/)
+- [ ] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT) (Current)
+- [ ] [Thinking with Types](https://leanpub.com/thinking-with-types/) (Current)
 - [ ] [Real World Haskell](http://book.realworldhaskell.org/)
 - [ ] [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
 - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
@@ -32,9 +32,9 @@ Stream progress, ideas, projects, topics
 - [ ] Algorithms
 - [ ] Web APIs
   - [ ] Scotty
-  - [ ] Servant
+  - [X] Servant
 - [ ] [Cloud Haskell](http://haskell-distributed.github.io/)
-- [ ] Databases (Probably HDBC)
+- [ ] Databases (Persistent and Esqueleto)
 - [ ] Recursion Schemes
   - Hylomorphism: http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Hylomorphisms.pdf
 
