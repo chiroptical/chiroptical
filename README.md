@@ -42,3 +42,7 @@ Stream progress, ideas, projects, topics
 ## Category Theory
 
 - https://www.youtube.com/user/MathProofsable
+
+## Contribute to Open Source
+
+- https://up-for-grabs.net/#/filters?tags=haskell
