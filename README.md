@@ -37,6 +37,7 @@ Stream progress, ideas, projects, topics
 - [ ] Databases (Persistent and Esqueleto)
 - [ ] Recursion Schemes
   - Hylomorphism: http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Hylomorphisms.pdf
+- [ ] Control.Arrow
 
 ## Category Theory
 
