@@ -11,6 +11,7 @@ Stream progress, ideas, projects, topics
 - [ ] [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
 - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
 - [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
+- [ ] [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [ ] [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) (book is not finished yet)
 - [ ] [Hands-On Network Programming with C](https://www.packtpub.com/networking-and-servers/hands-network-programming-c)
   - Not Haskell, but I want to convert it
