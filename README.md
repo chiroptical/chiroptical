@@ -12,10 +12,14 @@ Stream progress, ideas, projects, topics
 - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
 - [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
 - [ ] [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) (book is not finished yet)
+- [ ] [Hands-On Network Programming with C](https://www.packtpub.com/networking-and-servers/hands-network-programming-c)
+  - Not Haskell, but I want to convert it
 
 ## Books (potential)
 
 - [ ] [Intermediate Haskell](https://intermediatehaskell.com/)
+- [ ] [Structure and Interpretation of Computer Programs](https://github.com/sarabander/sicp-pdf)
+  - Not Haskell, but we could convert it?
 
 ## Courses
 
