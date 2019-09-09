@@ -43,11 +43,16 @@ Stream progress, ideas, projects, topics
 - [ ] Recursion Schemes
   - Hylomorphism: http://www.cs.ox.ac.uk/people/nicolas.wu/papers/Hylomorphisms.pdf
 - [ ] Control.Arrow
+- [ ] Template Haskell
+- [ ] Liquid Haskell
 
 ## Category Theory
 
+- [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - https://www.youtube.com/user/MathProofsable
 
 ## Contribute to Open Source
 
-- https://up-for-grabs.net/#/filters?tags=haskell
+- [ ] https://github.com/exercism/haskell/pull/843
+- [ ] https://github.com/exercism/haskell/issues/841
+- [ ] https://up-for-grabs.net/#/filters?tags=haskell
