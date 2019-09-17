@@ -5,14 +5,15 @@ Stream progress, ideas, projects, topics
 
 - [x] [Learn you a Haskell for Great Good](http://learnyouahaskell.com/)
 - [x] [Haskell Programming from First Principles](http://haskellbook.com/)
-- [ ] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT) (Current)
-- [ ] [Thinking with Types](https://leanpub.com/thinking-with-types/) (Current)
+- [ ] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT) (https://github.com/barrymoo/book-of-monads)
+- [ ] [Thinking with Types](https://leanpub.com/thinking-with-types/) (https://github.com/barrymoo/thinking-with-types)
+- [ ] [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (https://github.com/barrymoo/ctfp-book-club)
 - [ ] [Real World Haskell](http://book.realworldhaskell.org/)
 - [ ] [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
 - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
 - [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
-- [ ] [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [ ] [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) (book is not finished yet)
+- [ ] [Optics by Example](https://www.patreon.com/ChrisPenner) (book it not finished yet)
 - [ ] [Hands-On Network Programming with C](https://www.packtpub.com/networking-and-servers/hands-network-programming-c)
   - Not Haskell, but I want to convert it
 
@@ -29,7 +30,6 @@ Stream progress, ideas, projects, topics
 
 ## Topics
 
-- [ ] [Data61 Lens Tutorial](https://github.com/data61/lets-lens)
 - [ ] `DerivingVia`
 - [ ] [Nix Tutorial](https://nixos.org/nixos/nix-pills/why-you-should-give-it-a-try.html)
 - [ ] Free/Freer Monads
@@ -45,11 +45,6 @@ Stream progress, ideas, projects, topics
 - [ ] Control.Arrow
 - [ ] Template Haskell
 - [ ] Liquid Haskell
-
-## Category Theory
-
-- [Category Theory For Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
-- https://www.youtube.com/user/MathProofsable
 
 ## Contribute to Open Source
 
