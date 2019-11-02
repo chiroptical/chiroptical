@@ -23,6 +23,11 @@ Stream progress, ideas, projects, topics
 - [ ] [Structure and Interpretation of Computer Programs](https://github.com/sarabander/sicp-pdf)
   - Not Haskell, but we could convert it?
 
+## Projects
+
+- WIP [Building a website in Yesod](https://github.com/barrymoo/just-recipes)
+- [Teach me something](https://github.com/barrymoo/teach-me-something)
+
 ## Courses
 
 - [ ] [Data 61 FP Course](https://github.com/data61/fp-course)
@@ -32,12 +37,11 @@ Stream progress, ideas, projects, topics
 
 - [ ] `DerivingVia`
 - [ ] [Nix Tutorial](https://nixos.org/nixos/nix-pills/why-you-should-give-it-a-try.html)
-- [ ] Free/Freer Monads
-- [ ] Tagless Final
 - [ ] Algorithms
-- [ ] Web APIs
+- [ ] Web APIs and REST
+  - [ ] Yesod
   - [ ] Scotty
-  - [X] Servant
+  - [X] Servant (finished tutorial, using at work)
 - [ ] [Cloud Haskell](http://haskell-distributed.github.io/)
 - [ ] Databases (Persistent and Esqueleto)
 - [ ] Recursion Schemes
@@ -46,8 +50,6 @@ Stream progress, ideas, projects, topics
 - [ ] Template Haskell
 - [ ] Liquid Haskell
 
-## Contribute to Open Source
+## Contributions to Open Source
 
-- [ ] https://github.com/exercism/haskell/pull/843
-- [ ] https://github.com/exercism/haskell/issues/841
-- [ ] https://up-for-grabs.net/#/filters?tags=haskell
+- [Exercism Haskell Track](https://github.com/exercism/haskell/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Abarrymoo)
