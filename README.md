@@ -35,6 +35,7 @@ Stream progress, ideas, projects, topics
 
 ## Topics
 
+- [ ] [Type Level Workshop](https://github.com/tdietert/types-as-specifications)
 - [ ] `DerivingVia`
 - [ ] [Nix Tutorial](https://nixos.org/nixos/nix-pills/why-you-should-give-it-a-try.html)
 - [ ] Algorithms
