@@ -10,13 +10,14 @@ Stream progress, ideas, projects, topics
 - [x] [Haskell Programming from First Principles](http://haskellbook.com/)
 - [X] [Thinking with Types](https://leanpub.com/thinking-with-types/) (https://github.com/chiroptical/thinking-with-types)
 - [X] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT) (https://github.com/chiroptical/book-of-monads)
+- [ ] [Optics by Example](https://leanpub.com/optics-by-example) (https://github.com/chiroptical/optics-by-example)
 - [ ] [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (https://github.com/chiroptical/ctfp-book-club)
 - [ ] [Real World Haskell](http://book.realworldhaskell.org/)
 - [ ] [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
 - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
 - [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
 - [ ] [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) (book is not finished yet)
-- [ ] [Optics by Example](https://www.patreon.com/ChrisPenner) (book it not finished yet)
+
 - [ ] [Hands-On Network Programming with C](https://www.packtpub.com/networking-and-servers/hands-network-programming-c)
   - Not Haskell, but I want to convert it
 
