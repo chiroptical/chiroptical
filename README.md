@@ -8,9 +8,9 @@ Stream progress, ideas, projects, topics
 
 - [x] [Learn you a Haskell for Great Good](http://learnyouahaskell.com/)
 - [x] [Haskell Programming from First Principles](http://haskellbook.com/)
-- [X] [Thinking with Types](https://leanpub.com/thinking-with-types/) (https://github.com/barrymoo/thinking-with-types)
-- [X] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT) (https://github.com/barrymoo/book-of-monads)
-- [ ] [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (https://github.com/barrymoo/ctfp-book-club)
+- [X] [Thinking with Types](https://leanpub.com/thinking-with-types/) (https://github.com/chiroptical/thinking-with-types)
+- [X] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT) (https://github.com/chiroptical/book-of-monads)
+- [ ] [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (https://github.com/chiroptical/ctfp-book-club)
 - [ ] [Real World Haskell](http://book.realworldhaskell.org/)
 - [ ] [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
 - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
