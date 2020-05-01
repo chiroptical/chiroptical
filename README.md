@@ -26,6 +26,7 @@ Stream progress, ideas, projects, topics
 - [ ] [Intermediate Haskell](https://intermediatehaskell.com/)
 - [ ] [Structure and Interpretation of Computer Programs](https://github.com/sarabander/sicp-pdf)
   - Not Haskell, but we could convert it?
+- [ ] [Algorithm Design in Haskell](https://www.cambridge.org/core/books/algorithm-design-with-haskell/824BE0319E3762CE8BA5B1D91EEA3F52#)
 
 ## Courses
 
