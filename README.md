@@ -37,7 +37,9 @@ Stream progress, ideas, projects, topics
 
 - [ ] [Type Level Workshop](https://github.com/tdietert/types-as-specifications)
 - [ ] `DerivingVia`
-- [ ] [Nix Tutorial](https://nixos.org/nixos/nix-pills/why-you-should-give-it-a-try.html)
+- Nix
+  - [ ] https://nixos.org/nixpkgs/manual/#haskell
+  - [ ] https://github.com/Gabriel439/haskell-nix
 - [ ] Algorithms
 - [ ] Web APIs and REST
   - [X] Servant (finished tutorial, using at work)
