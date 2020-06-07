@@ -37,12 +37,11 @@ Stream progress, ideas, projects, topics
 
 - [ ] [Type Level Workshop](https://github.com/tdietert/types-as-specifications)
 - [ ] `DerivingVia`
-- Nix
+- [ ] Nix
   - [ ] https://nixos.org/nixpkgs/manual/#haskell
   - [ ] https://github.com/Gabriel439/haskell-nix
 - [ ] Algorithms
-- [ ] Web APIs and REST
-  - [X] Servant (finished tutorial, using at work)
+- [X] Web APIs and REST (see e.g. https://github.com/chiroptical/polysemy-playground)
 - [ ] [Cloud Haskell](http://haskell-distributed.github.io/)
 - [X] Databases (Persistent and Esqueleto)
 - [ ] Recursion Schemes
