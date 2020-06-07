@@ -53,3 +53,7 @@ Stream progress, ideas, projects, topics
 ## Contributions to Open Source
 
 - [Exercism Haskell Track](https://github.com/exercism/haskell/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Abarrymoo)
+
+## Libraries Redeemed
+
+- [ ] MTL
