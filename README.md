@@ -18,8 +18,8 @@ Stream progress, ideas, projects, topics
 - [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
 - [ ] [Algorithm Design in Haskell](https://www.cambridge.org/core/books/algorithm-design-with-haskell/824BE0319E3762CE8BA5B1D91EEA3F52#)
 - [ ] [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) (book is not finished yet)
-- [ ] [Hands-On Network Programming with C](https://www.packtpub.com/networking-and-servers/hands-network-programming-c)
-  - Not Haskell, but I want to convert it
+- [ ] [Sockets and Pipes](https://leanpub.com/sockets-and-pipes)
+  - It may be interesting to dive deep on networking and convert [Hands-On Network Programming with C](https://www.packtpub.com/networking-and-servers/hands-network-programming-c) to Haskell?
 
 ## Books (potential)
 
