@@ -10,6 +10,7 @@ Stream progress, ideas, projects, topics
 - [x] [Haskell Programming from First Principles](http://haskellbook.com/)
 - [X] [Thinking with Types](https://leanpub.com/thinking-with-types/) (https://github.com/chiroptical/thinking-with-types)
 - [X] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT) (https://github.com/chiroptical/book-of-monads)
+- [ ] [Algebra Driven Design](https://leanpub.com/algebra-driven-design)
 - [ ] [Optics by Example](https://leanpub.com/optics-by-example) (https://github.com/chiroptical/optics-by-example)
 - [ ] [Algorithm Design in Haskell](https://www.cambridge.org/core/books/algorithm-design-with-haskell/824BE0319E3762CE8BA5B1D91EEA3F52#)
 - [ ] [Real World Haskell](http://book.realworldhaskell.org/)
