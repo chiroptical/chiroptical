@@ -11,13 +11,13 @@ Stream progress, ideas, projects, topics
 - [X] [Thinking with Types](https://leanpub.com/thinking-with-types/) (https://github.com/chiroptical/thinking-with-types)
 - [X] [Book of Monads](https://www.amazon.com/Book-Monads-practice-applied-problems-ebook/dp/B07JNZHYLT) (https://github.com/chiroptical/book-of-monads)
 - [ ] [Optics by Example](https://leanpub.com/optics-by-example) (https://github.com/chiroptical/optics-by-example)
-- [ ] [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (https://github.com/chiroptical/ctfp-book-club)
+- [ ] [Algorithm Design in Haskell](https://www.cambridge.org/core/books/algorithm-design-with-haskell/824BE0319E3762CE8BA5B1D91EEA3F52#)
 - [ ] [Real World Haskell](http://book.realworldhaskell.org/)
 - [ ] [Purely Functional Data Structures](https://www.amazon.com/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
 - [ ] [Parallel and Concurrent Programming in Haskell](https://simonmar.github.io/pages/pcph.html)
 - [ ] [Finding Success and Failure in Haskell](https://leanpub.com/finding-success-in-haskell)
-- [ ] [Algorithm Design in Haskell](https://www.cambridge.org/core/books/algorithm-design-with-haskell/824BE0319E3762CE8BA5B1D91EEA3F52#)
 - [ ] [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) (book is not finished yet)
+- [ ] [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) (https://github.com/chiroptical/ctfp-book-club)
 - [ ] [Sockets and Pipes](https://leanpub.com/sockets-and-pipes)
   - It may be interesting to dive deep on networking and convert [Hands-On Network Programming with C](https://www.packtpub.com/networking-and-servers/hands-network-programming-c) to Haskell?
 
