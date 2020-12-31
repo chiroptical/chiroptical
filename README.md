@@ -35,6 +35,8 @@ Stream progress, ideas, projects, topics
 
 ## Topics
 
+- [ ] Liquid Haskell
+- [ ] Linear Types
 - [ ] [Software Design in Haskell Resource](https://github.com/graninas/software-design-in-haskell)
 - [ ] [Type Level Workshop](https://github.com/tdietert/types-as-specifications)
 - [ ] `DerivingVia`
