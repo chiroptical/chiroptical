@@ -1,4 +1,4 @@
-# Chiroptical
+# chiroptical
 
 ## Socials
 
