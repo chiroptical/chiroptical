@@ -16,3 +16,4 @@
 - [Elm in Action by Richard Feldman](https://www.youtube.com/watch?v=TjogPgz_jnc&list=PLW_sOzxD_4gSxW3agdoW22JTIJoaiSVYu)
 - [Functional Programming Made Easier](https://www.youtube.com/watch?v=xXAzesX92Wk&list=PLW_sOzxD_4gQwZ7oWTrpeETXCiVWDl2U_)
 - [Advent of Code 2022](https://youtube.com/playlist?list=PLW_sOzxD_4gSX5hrhfZcap0c6KLTrhW3-)
+- [Erlang bits](https://www.youtube.com/playlist?list=PLW_sOzxD_4gQCxnd0D25B9gxidM62FtFD)
